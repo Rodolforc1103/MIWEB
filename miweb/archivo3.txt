@@ -1,1 +1,2 @@
 Seguridad informatica para Hacking Etico
+El hacking ético, también conocido como pentesting o evaluación de seguridad, es una práctica legítima y legal que implica el análisis proactivo de sistemas informáticos
